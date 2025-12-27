@@ -1,0 +1,11 @@
+{
+  "episodes": 50,
+  "baseline_mean_cost": 277.8513882543115,
+  "rl_mean_cost": 335.0991218017157,
+  "baseline_mean_co2": 879.7555389244392,
+  "rl_mean_co2": 1049.1238875850415,
+  "baseline_mean_unserved": 5.968558980384841e-15,
+  "rl_mean_unserved": 6.252776074688882e-15,
+  "cost_reduction_percent": -20.603724137237915,
+  "co2_reduction_percent": -19.251751329428018
+}
